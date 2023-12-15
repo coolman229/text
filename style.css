@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aquamarine;
+    text-align: center;
+}
+p{
+    color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
